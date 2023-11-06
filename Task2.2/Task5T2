@@ -1,0 +1,4 @@
+I tried adding environment:
+import sys
+sys.stdout.encoding = 'utf-8'
+But it also displayed Russian words as symbols. Therefore, I decided not to waste time on this for a long time.
